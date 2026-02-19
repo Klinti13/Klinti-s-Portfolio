@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto Condensed", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #011818;
+}

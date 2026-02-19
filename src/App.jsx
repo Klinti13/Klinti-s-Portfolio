@@ -89,7 +89,7 @@ export default function App() {
               <p>Continuously experimenting with new tools and improving my skills through real-world applications.</p>
             </div>
             <div>
-              <a href="/Klinti_Bodurri_CV.pdf" download="Klinti_Bodurri_CV.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 border border-[#61DBFB] text-[#ddffff] rounded-lg font-bold hover:bg-[#61DBFB] hover:text-[#011818] transition-all duration-300 hover:scale-105 shadow-[0_0_15px_rgba(97,219,251,0.2)] hover:shadow-[0_0_25px_rgba(97,219,251,0.5)] no-underline">
+              <a href="Klinti_Bodurri_CV.pdf" download="Klinti_Bodurri_CV.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 border border-[#61DBFB] text-[#ddffff] rounded-lg font-bold hover:bg-[#61DBFB] hover:text-[#011818] transition-all duration-300 hover:scale-105 shadow-[0_0_15px_rgba(97,219,251,0.2)] hover:shadow-[0_0_25px_rgba(97,219,251,0.5)] no-underline">
                 <i className="fa-solid fa-file-arrow-down"></i> Download CV
               </a>
             </div>
@@ -115,7 +115,7 @@ export default function App() {
 
         <section className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div className="space-y-6">
-            <h2 className="text-3xl font-bold uppercase tracking-widest border-b border-[#333d3d] pb-2 text-[#61DBFB] m-0">Education</h2>
+            <h2 className="text-3xl font-bold uppercase tracking-widest pb-2 text-[#61DBFB] m-0">Education</h2>
             <div className="space-y-6">
               <div className="bg-[#333d3d]/20 p-6 rounded-xl border border-[#333d3d] hover:border-[#61DBFB]/50 transition-colors">
                 <h3 className="text-xl font-bold m-0 mb-2">MSc in Computer Engineering</h3>
@@ -129,7 +129,7 @@ export default function App() {
           </div>
 
           <div className="space-y-6">
-            <h2 className="text-3xl font-bold uppercase tracking-widest border-b border-[#333d3d] pb-2 text-[#61DBFB] m-0">Experience</h2>
+            <h2 className="text-3xl font-bold uppercase tracking-widest pb-2 text-[#61DBFB] m-0">Experience</h2>
             <div className="space-y-6">
                <div className="bg-[#333d3d]/20 p-6 rounded-xl border border-[#333d3d] hover:border-[#61DBFB]/50 transition-colors relative overflow-hidden">
                 <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#61DBFB]"></div>

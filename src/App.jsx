@@ -34,12 +34,17 @@ const projectData = [
     icons: ["fa-brands fa-react text-[#61DBFB]", "fa-brands fa-js text-[#FFD43B]"]
   },
   {
-    id: 5,
-    title: "E-Market",
-    subTitle: "Detailed Description:",
-    description: "E-Market redefines everyday shopping through a minimal aesthetic and modern architecture, delivering a superior view with every click.",
-    link: "https://klinti13.github.io/E-Market/",
-    icons: ["fa-brands fa-react text-[#61DBFB]", "devicon-typescript-plain text-[#3178C6]", "devicon-tailwindcss-original text-[#38BDF8]"]
+  id: 5,
+  title: "E-Market",
+  subTitle: "Detailed Description:",
+  description: "A full-stack e-commerce application built with the MERN stack. It features a minimal aesthetic built with React, powered by a robust Node.js and Express backend, utilizing MongoDB for scalable data management.",
+  link: "https://www.emarketi.store/",
+  icons: [
+    "devicon-mongodb-plain text-[#47A248]", 
+    "devicon-express-original text-gray-800", 
+    "fa-brands fa-react text-[#61DBFB]", 
+    "fa-brands fa-node-js text-[#68A063]"
+  ]
   },
   {
     id: 6,
